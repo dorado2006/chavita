@@ -1,0 +1,1 @@
+<b>Nº DOCUMENTO</b><input type="text" size="5" name="numdocume" class="foco actreanly" value="<?php echo $rows[0]['num_estado_isalmacen']; ?>" id="num_docm" readonly="">

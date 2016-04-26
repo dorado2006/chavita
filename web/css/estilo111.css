@@ -1,0 +1,141 @@
+body {
+  //padding-left: 11em;
+  font-family: Georgia, "Times New Roman",
+        Times, serif;
+  color: #f20500;
+  
+   }
+#cabecera {
+  padding-top: 1em;
+  padding-left: 60px;
+  display: block;
+  margin: auto;
+  text-align: center;
+  width: auto;
+  height:100px;
+  background-color:#5DE86A ;
+  padding-right: 60px
+  
+}
+.error{ display:block; color:red;font-weight:normal;font-size: 13px;}
+#letra {
+    float:left;
+    width:40%;
+    display: inline-block;
+    font-style: italic;
+    font-family: Courier New;
+    font-weight: bold;
+    font-size: 40px;
+    color:  brown;
+    
+}
+#letra img{
+   height: 100px; 
+}
+
+#logonc {
+    text-align:left;
+    margin-right:5px;
+    padding-left:1%;
+    float:left;
+    width:22%;
+    display: inline-block;
+    
+} 
+#bsalir{
+        text-align: center;
+       
+        padding-left: 30px;
+        padding-top: 10px;
+        width: 60px;
+        height: 50px;
+        float:  right;
+        padding-right: 100px;
+       
+           
+
+}
+
+
+
+ul.navbar {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 2em;
+  left: 1em;
+  width: 9em }
+//h1 {
+  //font-family: Helvetica, Geneva, Arial,
+    //    SunSans-Regular, sans-serif }
+ul.navbar li {
+  background: white;
+  margin: 0.5em 0;
+  padding: 0.3em;
+  border-right: 1em solid black }
+ul.navbar a {
+  text-decoration: none }
+a:link {
+  color: #ffffff; }
+a:visited {
+  color: #ffffff; }
+address {
+  margin-top: 1em;
+  padding-top: 1em;
+  border-top: thin dotted }
+#contenido { 
+  display: block;
+  margin: auto;
+  width: auto;
+  min-height:400px;
+  
+}
+#formulario { 
+  display: block;
+  margin-top: 70px;
+  width: 271px;
+  min-height:100px;
+  
+}
+
+#menu {
+  display: block;
+  margin: auto;
+  text-align: left;
+  width: auto;
+  min-height: 50px;
+  border-top: solid #5DE86A;
+  
+}
+
+#menu_iz {
+    
+    float:left;
+    width:70%;
+  
+  border-right: solid #0078ae ;
+}
+#menu_iz   li li :hover  {background-color: #4BBFF3;color:#fff;font-weight: bold;} 
+
+#menu_der {
+    text-align:left;
+    margin-right:5px;
+    padding-left:15px;
+    
+    float:left;
+    width:27%;
+   
+    
+} 
+
+
+
+#contmedio {
+   display: block;
+  padding-left:100px;
+  padding-right: 100px;
+ 
+    
+} 
+

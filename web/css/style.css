@@ -1,0 +1,100 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+#principal{
+    margin-top: 0px;
+}
+
+fieldset {
+  width: 30%;
+  height: 20%;
+  margin-left:8%;
+  margin-top: 10%;  
+  }
+  
+  .btn-mini {
+  padding: 0 6px;
+  font-size: 10.5px;
+  -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
+}
+
+  button{ background:#DFFFA5 ;
+          }
+          
+            
+  #banner{margin-top: 5%;}      
+  
+  #cuadros{
+     float: left;
+  }
+  
+  .cssobjeto{
+      
+      
+  }
+  .table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, 
+  .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td{
+      padding: 4px 6px;
+  }
+  
+  
+  #styletitle{
+
+    -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #c4daf5) );
+	background:-moz-linear-gradient( center top, #ededed 5%, #c4daf5 100% );
+        /*para Firefox*/
+-moz-border-radius: 20px 20px 0 0;
+/*para Safari y Chrome*/
+-webkit-border-radius: 20px 20px 0 0;
+/* para Opera */
+border-radius: 20px 20px 0 0;
+    
+  }
+  
+  #form{
+      -moz-border-radius: 20px 20px 0 0;
+/*para Safari y Chrome*/
+-webkit-border-radius: 20px 20px 0 0;
+/* para Opera */
+border-radius: 20px 20px 0 0;
+  }
+  
+  .cssobjeto{
+      background: #FFF8DC;
+      padding: 2px 2px 2px 2px;
+      margin: 2px 2px 2px 2px;
+  }
+  
+  #formulario{
+      margin-left: 30%;
+      min-width: 50%;
+      background: #eee;
+  }
+  
+  #perpage select{
+    width: 70px;
+}
+#controls {
+    width: 75%;
+    margin: 0 auto;
+}
+
+#controls img {
+    cursor: pointer;
+}
+
+#controls #perpage, #controls #navigation, #controls #text {
+    width: 25%;
+    display: inline-block;
+}
+
+#controls #perpage{
+    width: 40%;
+}

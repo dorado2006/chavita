@@ -1,0 +1,29 @@
+/*------------- ESTILOS TABLA -----------------*/
+
+.tabla th {
+padding: 5px;
+font-size: 16px;
+background-color: #83aec0;
+color: #FFFFFF;
+border-width: 1px;
+border-style: solid;
+border-color: #ffffff;
+font-family: �Trebuchet MS�, Arial;
+text-transform: uppercase;
+}
+
+
+
+
+
+
+.tabla td {
+padding: 5px;
+border-width: 1px;
+border-style: solid;
+border-color:  #ffffff;
+ text-align: left;
+background: #CCCCCC;
+font-size: 1.5rem;
+text-transform: uppercase;
+} 
